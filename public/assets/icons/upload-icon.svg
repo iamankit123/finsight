@@ -1,0 +1,6 @@
+<!-- filepath: d:\Projects\FinSight\public\assets\icons\upload-icon.svg -->
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" fill="#2563EB" fill-opacity="0.1" stroke="#2563EB" stroke-width="2" />
+  <path d="M60 35V75M60 35L45 50M60 35L75 50" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 75V80C40 83.1826 41.2643 86.2348 43.5147 88.4853C45.7652 90.7357 48.8174 92 52 92H68C71.1826 92 74.2348 90.7357 76.4853 88.4853C78.7357 86.2348 80 83.1826 80 80V75" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
